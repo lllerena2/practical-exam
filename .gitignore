@@ -1,0 +1,4 @@
+data/*
+!data/
+chapters/models/figures/*
+!chapters/models/figures/*
