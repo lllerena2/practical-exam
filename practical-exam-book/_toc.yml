@@ -5,5 +5,10 @@ format: jb-book
 root: intro
 chapters:
 - file: markdown
+- file: chapters/eda
+- file: chapters/punto2_a_price
+- file: chapters/punto2_b_retorno
+- file: chapters/punto2_b_retorno
+- file: chapters/punto2_c_volatilidad
+- file: chapters/punto2_d_garch
 - file: chapters/deeplearning
-- file: markdown-notebooks
