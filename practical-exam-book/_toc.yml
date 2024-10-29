@@ -4,8 +4,7 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: chapters/eda
+- file: chapters/EDA
 - file: chapters/punto2_a_price
 - file: chapters/punto2_b_retorno
 - file: chapters/punto2_c_volatilidad
