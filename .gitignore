@@ -1,4 +1,10 @@
 data/*
 !data/
-chapters/figures/*
-!chapters/figures/
+practical-exam-book/chapters/figures/*
+!practical-exam-book/chapters/figures/
+practical-exam-book/chapters/history/*
+!practical-exam-book/chapters/history/
+practical-exam-book/chapters/models/*
+!practical-exam-book/chapters/models/
+practical-exam-book/chapters/results/*
+!practical-exam-book/chapters/results/
